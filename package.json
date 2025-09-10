@@ -3,7 +3,7 @@
   "displayName": "ES7 React/Redux/GraphQL/React-Native snippets",
   "description": "Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax",
   "version": "1.9.2",
-  "publisher": "dsznajder",
+  "publisher": "lucyanddarlin",
   "icon": "images/logo.png",
   "keywords": [
     "snippets",
@@ -19,7 +19,7 @@
   "license": "SEE LICENSE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dsznajder/vscode-es7-javascript-react-snippets"
+    "url": "https://github.com/lucyandlucky/vscode-es7-javascript-react-snippets"
   },
   "categories": [
     "Snippets"
